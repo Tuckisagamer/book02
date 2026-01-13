@@ -1,5 +1,5 @@
 ---
-title: Foundations for CompSci - Book 2
+title: Foundations for Software Engineering Book 2
 subtitle: Python, Databases, and APIs
 author: Jeremy Kelley
 titlepage: true
